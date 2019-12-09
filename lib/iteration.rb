@@ -59,6 +59,7 @@ def find_greater_pair(src)
   while index < src.length do 
     inner = src[index]
     if 
+    end
     index +=1
   end
 end
