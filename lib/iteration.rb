@@ -7,6 +7,11 @@ array_1 = [
 
 ]
 
+
+array_2 = [
+[-1, -900], [10, 30], [0, 0], [14, 16 * -2.5], [Math.sin(1), 19]
+
+]
 =end 
 
 def join_ingredients(src)
