@@ -1,3 +1,8 @@
+=begin
+array_1 = [['pepperoni', 'sausage'], ['green olives', 'green peppers'], ['onions', 'pineapple']]
+
+=end 
+
 def join_ingredients(src)
   # Given an Array of 2-element Arrays ( [ [food1, food2], [food3, # food4]....[foodN, foodM]]):
   #
