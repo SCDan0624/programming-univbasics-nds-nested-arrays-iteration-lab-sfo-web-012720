@@ -8,11 +8,7 @@ array_1 = [
 ]
 
 
-array_2 = [
 
-[-1, -900], [10, 30], [0, 0], [14, 16 * -2.5], [Math.sin(1), 19]
-
-]
 =end 
 
 def join_ingredients(src)
@@ -46,11 +42,25 @@ end
 =end 
 
 
+=begin
+array_2 = [
 
+[-1, -900], [10, 30], [0, 0], [14, 16 * -2.5], [Math.sin(1), 19]
+
+]
+=end 
 def find_greater_pair(src)
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
   # Produce a new Array that contains the larger number of each of the pairs
   # that are in the inner Arrays
+  
+  result = []
+  index = 0 
+  while index < src.length do 
+    inner = src[index]
+    if 
+    index +=1
+  end
 end
 
 def total_even_pairs(src)
