@@ -29,7 +29,7 @@ def join_ingredients(src)
 end
 
 =begin
-0 < src
+0 < 3
 =end 
 
 def find_greater_pair(src)
