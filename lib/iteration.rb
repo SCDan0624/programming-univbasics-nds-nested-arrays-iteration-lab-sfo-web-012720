@@ -60,10 +60,12 @@ def find_greater_pair(src)
     inner = src[index]
     if inner[0] > inner[1]
       result << inner[0]
-      
+    else
+      result << inner[1]
     end
     index +=1
   end
+  result
 end
 
 def total_even_pairs(src)
