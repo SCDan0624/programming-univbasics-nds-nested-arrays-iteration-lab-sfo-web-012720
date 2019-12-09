@@ -10,7 +10,7 @@ def join_ingredients(src)
   row_index = 0 
   while row_index < src.length do 
     inner = src[row_index]
-    result
+    result << ""
   end 
 
 end
