@@ -6,9 +6,6 @@ array_1 = [
   ['onions', 'pineapple']
 
 ]
-
-
-
 =end 
 
 def join_ingredients(src)
