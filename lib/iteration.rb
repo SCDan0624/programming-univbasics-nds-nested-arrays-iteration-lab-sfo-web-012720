@@ -14,7 +14,7 @@ def join_ingredients(src)
   
   result = []
   index = 0 
-  while row_index < src.length do 
+  while index < src.length do 
     inner = src[index]
     result << "I love #{inner[0]} and #{inner[1]} on my pizza"
     index +=1 
