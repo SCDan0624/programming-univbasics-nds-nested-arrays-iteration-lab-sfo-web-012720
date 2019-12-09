@@ -1,5 +1,10 @@
 =begin
-array_1 = [['pepperoni', 'sausage'], ['green olives', 'green peppers'], ['onions', 'pineapple']]
+array_1 = [
+  ['pepperoni', 'sausage'], 
+  ['green olives', 'green peppers'], 
+  ['onions', 'pineapple']
+
+]
 
 =end 
 
