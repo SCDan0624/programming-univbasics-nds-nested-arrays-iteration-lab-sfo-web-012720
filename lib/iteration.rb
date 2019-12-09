@@ -28,7 +28,7 @@ def join_ingredients(src)
   result
 end
 
-#
+#[]
 
 def find_greater_pair(src)
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
