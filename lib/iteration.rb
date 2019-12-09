@@ -30,6 +30,13 @@ end
 
 =begin
 0 < 3
+[I love first two]
+
+1 < 3
+[I love next two]
+
+2 < 3 
+[I love next two ]
 =end 
 
 def find_greater_pair(src)
