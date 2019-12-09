@@ -93,7 +93,7 @@ def total_even_pairs(src)
   while index < src.length do
     inner = src[index]
     
-    if 
+    if inner[0] % 2 == 0 
     end
   end
 end
