@@ -88,7 +88,7 @@ def total_even_pairs(src)
   # the number was even. Review the operator documentation if you've forgotten
   # this!
   
-  result = []
+  result = 0
   index = 0 
   while index < src.length do
     inner = src[index]
